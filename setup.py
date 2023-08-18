@@ -4,7 +4,7 @@ from typing import List
 
 import setuptools
 
-__version__ = 'VERSIONADDEDBYGITHUB'
+__version__ = '1'
 
 __title__ = "tautulli"
 __author__ = 'Nate Harris'
